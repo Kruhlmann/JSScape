@@ -1,0 +1,25 @@
+{
+  "name": "jsscape",
+  "version": "1.0.0",
+  "description": "JSScape server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kruhlmann/JSScape.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "js",
+    "webstack"
+  ],
+  "author": "Andreas Kruhlmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kruhlmann/JSScape/issues"
+  },
+  "homepage": "https://github.com/Kruhlmann/JSScape#readme"
+}
